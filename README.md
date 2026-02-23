@@ -68,12 +68,3 @@
 | **Dream Card** | 모바일 청첩장 서비스 | React | [Live](https://www.dream-card.co.kr/) |
 | **Portfolio** | 개인 포트폴리오 사이트 | Next.js, TypeScript | [Live](https://portfolio-jsh-xi.vercel.app) |
 
----
-
-<div align="center">
-
-![sHyunis's GitHub stats](https://github-readme-stats.vercel.app/api?username=sHyunis&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sHyunis&layout=compact&hide_border=true&langs_count=6)
-
-</div>
