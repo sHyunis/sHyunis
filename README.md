@@ -64,7 +64,7 @@
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **오늘 헤어졌어요** | 이별 후 감정을 나누는 익명 커뮤니티 | Next.js, Supabase, Tailwind CSS | [Repo](https://github.com/sHyunis/today-breakup) |
+| **오늘 헤어졌어요** | 이별 후 감정을 나누는 익명 커뮤니티 | Next.js, Supabase, Tailwind CSS | - |
 | **Dream Card** | 모바일 청첩장 서비스 | React | [Live](https://www.dream-card.co.kr/) |
 | **Portfolio** | 개인 포트폴리오 사이트 | Next.js, TypeScript | [Live](https://portfolio-jsh-xi.vercel.app) |
 
